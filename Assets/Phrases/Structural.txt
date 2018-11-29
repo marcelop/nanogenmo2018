@@ -1,0 +1,303 @@
+﻿{
+	"entry":[
+		"%name\n\n%baseDesc %behavDesc %songDesc\n\n%cageDesc %conditionDesc\n\n%culturalNote",
+		"%name\n\n%origin\n\n%baseDesc %songDesc %cageDesc\n\n%behavDesc %conditionDesc\n\n%birdUsage",
+		"%name\n\n%baseDesc %conditionDesc\n\n%cageDesc %behavDesc %songDesc\n\n%conditionDesc\n\n%birdUsage",
+		"%name\n\n%baseDesc %songDesc %conditionDesc %cageDesc\n\n%culturalNote",
+		"%name\n\n%origin\n\n%baseDesc %behavDesc %songDesc\n\n%cageDesc %conditionDesc\n\n%culturalNote",
+		"%name\n\n%baseDesc %cageDesc\n\n%behavDesc %songDesc %conditionDesc\n\n%birdUsage",
+		"%name\n\n%origin\n\n%baseDesc %songDesc %conditionDesc\n\n%cageDesc %behavDesc\n\n%conditionDesc",
+		"%name\n\n%baseDesc %songDesc %conditionDesc %cageDesc\n\n%birdUsage\n\n%culturalNote",
+		"%name\n\n%baseDesc %behavDesc %songDesc\n\n%cageDesc %conditionDesc\n\n%culturalNote",
+		"%name\n\n%origin\n\n%baseDesc %songDesc %cageDesc\n\n%behavDesc %conditionDesc\n\n%birdUsage",
+		"%name\n\n%baseDesc %conditionDesc\n\n%cageDesc %behavDesc %songDesc\n\n%conditionDesc\n\n%birdUsage",
+		"%name\n\n%baseDesc %songDesc %conditionDesc %cageDesc\n\n%culturalNote",
+		"%name\n\n%origin\n\n%baseDesc %behavDesc %songDesc\n\n%cageDesc %conditionDesc\n\n%culturalNote",
+		"%name\n\n%baseDesc %cageDesc\n\n%behavDesc %songDesc %conditionDesc\n\n%birdUsage",
+		"%name\n\n%origin\n\n%baseDesc %songDesc %conditionDesc\n\n%cageDesc %behavDesc\n\n%conditionDesc",
+		"%name\n\n%baseDesc %songDesc %conditionDesc %cageDesc\n\n%birdUsage\n\n%culturalNote",
+		"%name\n\n%baseDesc %behavDesc %songDesc\n\n%cageDesc %conditionDesc\n\n%culturalNote",
+		"%name\n\n%origin\n\n%baseDesc %songDesc %cageDesc\n\n%behavDesc %conditionDesc\n\n%birdUsage",
+		"%name\n\n%baseDesc %conditionDesc\n\n%cageDesc %behavDesc %songDesc\n\n%conditionDesc\n\n%birdUsage",
+		"%name\n\n%baseDesc %songDesc %conditionDesc %cageDesc\n\n%culturalNote",
+		"%name\n\n%origin\n\n%baseDesc %behavDesc %songDesc\n\n%cageDesc %conditionDesc\n\n%culturalNote",
+		"%name\n\n%baseDesc %cageDesc\n\n%behavDesc %songDesc %conditionDesc\n\n%birdUsage",
+		"%name\n\n%origin\n\n%baseDesc %songDesc %conditionDesc\n\n%cageDesc %behavDesc\n\n%conditionDesc",
+		"%name\n\n%baseDesc %songDesc %conditionDesc %cageDesc\n\n%birdUsage\n\n%culturalNote",
+		"%name\n\n%origin\n\n%eggBase"
+	],
+	"name":[
+		"$countryCitizens %^species",
+		"%^namePrefix %^birdAdj %^species",
+		"%^colour + %species", 
+		"%^namePrefix %^colour +bird",
+		"%^colour %^birdPart %^species",
+		"%^songAdj %^^landFeature %^species",
+		"%^namePrefix %^colour %^personType",
+		"$countryName %^landFeature %^species",
+		"%^namePrefix %^species of $countryName"
+	],
+	"name2":[
+		"$countryCitizens %^species",
+		"%^namePrefix %^birdAdj %^species",
+		"%^colour + %species", 
+		"%^namePrefix %^colour +bird",
+		"%^colour %^birdPart %^species",
+		"%^songAdj %^^landFeature %^species",
+		"%^namePrefix %^colour %^personType",
+		"$countryName %^landFeature %^species",
+		"%^namePrefix %^species of $countryName"
+	],
+	"baseDesc":[
+		"It's %birdDesc",
+		"I see %birdDesc",
+		"It %seems to be %birdDesc",
+		"The %name is %birdDesc"
+	],
+	"cageDesc":[
+		"It is kept in a %material cage.",
+		"It %birdVerbs in a %material cage that is %cageSize.",
+		"Its cage is %cageSize and %cageComment.",
+		"I %feeling its cage, %maybe because %cageComment."
+	],
+	"behavDesc":[
+		"%^birdBehav.",
+		"%^birdBehav.",
+		"%^birdBehav.",
+		"%^reputation %birdBehav.",
+		"%^reputation %birdBehav."
+	],
+	"conditionDesc":[
+		"It's %health, if I %observe %correctly.",
+		"It %seems to be %health. %^care",
+		"%^care",
+		"I %observe it is %health. %eggCondition",
+	],
+	"culturalNote":[
+		"I dreamed of it last night.",
+		"%^fortuneReadPhrase.",
+		"%^reputation %fortuneReadPhrase",
+		"The people of %country associate it with %concept.",
+		"%^reputation in $countryName that the %name is always to be found near a %personType.",
+		"When I am near it I think of %concept.",
+		"%^reputation it is the result of a %animal and %animal falling in love, %amount years ago.",
+		"%^reputation Her Majesty %manmade the %name as part of a %project.",
+		"%queenOpinion.",
+		"%queenOpinion.",
+		"%^reputation it %emotions the %animal.",
+		"I once %got a %symbolicObject from %country with a drawing of this %bird on the side.",
+		"I decided to %fortuneReading the outcome said: %fortune ... %fortuneReaction.",
+		"Related to this %bird and its %behaviour, scriptures say:\n\n' + %fortune,\n%fortune,\n%fortune +'\n\n%fortuneReaction.",
+		"It reminds me of Cem, in a %cemAdj way.",
+		"I thought it spoke to me, saying: ' + %concept + '.",
+		"It makes me want to visit $countryAdj $countryName.",
+		"%^property.",
+		"%^property.",
+		"It plays a kind of sport with %name2, %sportVerbing %natureObjs, which the $countryType of $countryName uses in %ritualTypesBasic.",
+		"It %wasMentionedIn the %famous %writing by %firstName %lastName, %^^fortune, along with %name2",
+		"A %famous %workofart in the %^national %^govtbuilding of $countryName features %name, %artSuffix",
+		"%peopleType in $countryName keep this bird %keepExplan"
+	],
+
+	"keepExplan":[
+		"as pets",
+		"as pets",
+		"as pets",
+		"as decoration",
+		"in their %room",
+		"when they are %status"
+	],
+
+	"eggBase":[
+		"It is a %eggDesc %eggColour egg, not yet hatched. %^omen.",
+		"It is only an egg for now, %eggDesc and %eggColour.",
+		"A %eggDesc egg %eggVerb %cagePlace.",
+		"I see %numberPlural eggs %cagePlace. %^omen.",
+		"%^numberPlural eggs, nestled in a nest of %nestMaterial.",
+		"We are told it is an egg. I suspect it is a %fakeEgg because %fakeEggReason."
+	],
+
+
+	"mentionedIn":[
+		"was mentioned in",
+		"was the subject of",
+		"served as inspiration for",
+		"was alluded to",
+		"featured in"
+	],
+	"artSuffix":[
+		"%verbing a %name2",
+		"unfortunately",
+		"interestingly",
+		"stereotypically",
+		"allegedly",
+		"%near a %symbolicObj",
+		"called %^^fortune, by %firstName %lastName",
+		"though it inaccurately displays the bird with a %colourBasic %birdpart"
+	],
+	"eggCondition":[
+		"It %seems to have laid a %eggDesc egg! %^omen.",
+		"It %seems that it %birdFeeling its %numberPlural eggs.",
+		"A %eggDesc egg %eggVerb %cagePlace.",
+		"I see %numberPlural eggs %cagePlace. %^omen."
+	],
+	"namePrefixBasic":[
+		"lesser",
+		"greater",
+		"lesser",
+		"greater",
+		"legendary",
+		"northern",
+		"southern",
+		"western",
+		"eastern",
+		"the"
+	],
+	"namePrefixDry":[
+		"%namePrefixBasic",
+		"%namePrefixBasic",
+		"%namePrefixBasic",
+		"hunting",
+		"hungry",
+		"piercing"
+	],
+	"namePrefixSea":[
+		"%namePrefixBasic",
+		"%namePrefixBasic",
+		"%namePrefixBasic",
+		"coastal"
+	],
+	"namePrefixWoods":[
+		"%namePrefixBasic",
+		"%namePrefixBasic",
+		"%namePrefixBasic",
+		"singing",
+		"chattering",
+		"warbling"
+	],
+	"namePrefixMoon":[
+		"%namePrefixBasic",
+		"holy",
+		"abyssal",
+		"forbidden"
+	],
+	"accusationSuffix":[
+		"but I have no proof",
+		"so I should report it",
+		"but I dare not say anything",
+		"but I lack evidence"
+	],
+	"cemAdj":[
+		"strange",
+		"surprising",
+		"disturbing",
+		"cold",
+		"subtle"
+	],
+	"eggDesc":[
+		"%birdSizeAdjSmall",
+		"%birdSizeAdjSmall",
+		"%birdSizeAdjSmall",
+		"%birdSizeAdjLarge",
+		"thumbnail-sized",
+		"pointy",
+		"elongated",
+		"asymmetrical",
+		"handsome",
+		"blotchy",
+		"smooth",
+		"unblemished",
+		"cracked",
+		"motionless",
+		"cold",
+		"warm",
+		"delicious-looking",
+		"repulsive",
+		"wrinkled",
+		"perfect",
+		"suspicious",
+		"average-sized",
+		"unremarkable"
+	],
+	"eggVerb":[
+		"sits",
+		"is",
+		"has been put",
+		"has been laid",
+		"lies",
+		"lies forgotten",
+		"rolls around",
+		"twitches"
+	],
+	"fakeEgg":[
+		"forgery",
+		"stone",
+		"sculpture",
+		"fake"
+	],
+	"fakeEggReason":[
+		"it is very cold to the touch",
+		"it has been months without change",
+		"this bird surely does not exist",
+		"$countryName often tries to insult Her Majesty",
+		"it is too beautiful",
+		"it barely resembles an egg",
+		"it was acquired so cheaply"
+	],
+	"productObject" : [
+		"pottery",
+		"bricks",
+		"ceramics",
+		"glass",
+		"cement",
+		"paint",
+		"oil"
+	],
+	"productUsage" : [
+		"as makeup",
+		"as a seasoning",
+		"for cleaning",
+		"for cleaning %commonObject +s",
+		"for lamp oil",
+		"for the treatment of %sickness",
+		"in the creation of %productObject",
+		"as a ritual offering",
+		"to trade",
+		"as currency",
+		"in %ritualTypes"
+	],
+	"productProcess" : [
+		"boiled",
+		"ground to dust",
+		"dried and ground",
+		"reduced to powder",
+		"turned to a gel",
+		"made into a tincture",
+		"calcified"
+	],
+
+	"birdUsage" : [
+		"%^reputation that the %birdByproduct of the %name can be %productProcess and used %productUsage.",
+		"%^dontUnderstand but this %bird + 's %birdByproduct, when %productProcess, are used %productUsage.",
+		"%^birdByproduct of the %name are %productProcess by the $countryCitizens and used %productUsage.",
+		"I %suspect Cem has been stealing %name %birdByproduct %productUsage, %accusationSuffix.",
+		"This %bird is eaten %freq, %seasonDishPrep with a %seasonIngredient.",
+		"In %seasonName, %peopleType of $countryName eat this %bird under %seasonDeco.",
+		"If %productProcess, its %birdByproduct may be combined with %seasonIngredient for a %foodDesc %seasonDish."
+	],
+
+	"birdByproduct" : [
+		"eggshells",
+		"bones",
+		"rib bones",
+		"fat",
+		"skulls",
+		"droppings",
+		"beaks",
+		"talons",
+		"down",
+		"feathers",
+		"offal",
+		"guano"
+	]
+}

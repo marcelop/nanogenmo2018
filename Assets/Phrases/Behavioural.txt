@@ -1,0 +1,193 @@
+﻿{
+	"birdBehav":[
+		"%freq the bird %birdVerb +s %direction",
+		"it %eats %quantity %foods",
+		"%name prefers to %make its nest out of %nestMaterial, %nestPlace",
+		"its nest is made from %nestMaterial",
+		"%name made its nest in the shape of a %symbolicObject, out of %nestMaterial",
+		"its nest is %shape + -shaped and has been found %nestPlace",
+		"it %seems that it %birdFeeling %birdVerb %cagePlace",
+		"it %birdFeeling the new %cageDeco in its cage",
+		"it %hunts %name2 %huntExplan",
+		"it %hunts %name2",
+		"it adopts %name2 %babyBird +s as its own",
+		"it enjoys singing duets with %name2",
+		"it %wildVerbs in the company of %name",
+		"it shares a nest with %name2",
+		"it exchanges gifts of %natureObjs with %name2",
+		"it steals %natureObjs from %name2",
+		"it hoards %natureObjs, which are often stolen by %name2",
+		"the %animal %hunts it %freq"
+	],
+
+	"birdBehavAdj":[
+		"twitchy",
+		"calm",
+		"twittering",
+		"brooding"
+	],
+
+	"wildVerbs":[
+		"migrates",
+		"flies",
+		"preens",
+		"bathes",
+		"hunts",
+		"eats",
+		"mates",
+		"nests"
+	],
+
+	"babyBird":[
+		"%species +ling",
+		"chick",
+		"baby",
+		"chick",
+		"baby",
+		"chick",
+		"baby",
+		"%species +let"
+	],
+
+	"hunts":[
+		"hunts",
+		"hunts",
+		"hunts",
+		"hunts",
+		"preys on",
+		"devours",
+		"eats",
+		"predates"
+	],
+
+	"huntExplan":[
+		"as a matter of course",
+		"in %season",
+		"for food",
+		"for food",
+		"for food",
+		"in public competitions in $countryName",
+		"as a metaphor of %concept",
+		"%freq",
+		"without mercy"
+	],
+
+
+	"care":[
+		"it must be groomed with %groomingTool %freq.",
+		"%freq this species must be groomed with %groomingTool.",
+		"it is fed %foods %foodDelivery %freq.",
+		"it is carefully washed with a %fabric cloth %freq."
+	],
+
+	"groomingTool":[
+		"a horsehair brush",
+		"a set of tongs",
+		"a comb",
+		"a special fork",
+		"a paintbrush",
+		"a brush",
+		"scissors"
+	],
+
+	"foodDelivery":[
+	"as a treat",
+	"forcibly",
+	"against its will",
+	"in a trough",
+	"by hand",
+	"on a platter"
+	],
+
+	"health":[
+		"ill",
+		"losing tail feathers",
+		"currently molting",
+		"somewhat balding",
+		"becoming more %featherTextureAdj with time",
+		"healthy",
+		"dying",
+		"sickly",
+		"hale and hearty",
+		"vivacious",
+		"low-energy",
+		"dispirited",
+		"energetic"
+	],
+
+	"birdVerb":[
+		"peck",
+		"look",
+		"peck",
+		"look",
+		"squawk",
+		"eat",
+		"sleep",
+		"nest",
+		"dig",
+		"peer",
+		"nibble",
+		"sing",
+		"twitter"
+	],
+	"birdVerbs":[
+		"lives",
+		"sleeps",
+		"sings",
+		"dwells",
+		"suffers"
+	],
+	"nestPlaceBasic":[
+		"in a tree",
+		"in an orchard",
+		"in a garden",
+		"in the grass",
+		"under eaves of %buildings"
+	],
+	"nestPlaceDry":[
+		"%nestPlaceBasic",
+		"%near the sand",
+		"%near a cactus",
+		"%near dunes",
+		"%near mountains"
+	],
+	"nestPlaceSea":[
+		"%nestPlaceBasic",
+		"%near the %sea",
+		"%near the beach",
+		"%near clifftops",
+		"%near small islands",
+		"%near the shore",
+		"%near the %sea",
+		"%near tall reeds"
+	],
+	"nestPlaceWoods":[
+		"%nestPlaceBasic",
+		"%near foggy places",
+		"%near damp corners",
+		"%near a creek",
+		"%near a bridge"
+	],
+	"nestPlaceMoon":[
+		"%nestPlaceBasic",
+		"%near caves",
+		"in shadows"
+	],
+	"cagePlace":[
+		"in the corner",
+		"in the %compass +-most corner",
+		"%near a %cageDeco",
+		"in the cage's center",
+		"near the middle of the cage",
+		"next to the nest",
+		"in the nest",
+		"in the nest",
+		"in the nest",
+		"in the nest",
+		"in the furthest corner",
+		"up against the cage edge",
+		"%near the food",
+		"%near the water",
+		"near the %compass edge"
+	],
+}

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1203279775883864}
+  m_IsPrefabParent: 1
+--- !u!1 &1203279775883864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4108233243436198}
+  - component: {fileID: 114046878395847370}
+  m_Layer: 0
+  m_Name: TextGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4108233243436198
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1203279775883864}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114046878395847370
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1203279775883864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed64a3de8e486a44d9db881feea31615, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  bookIntroduction: {fileID: 4900000, guid: 8210ee9b5dafb774bae9d7614279f575, type: 3}
+  bookConclusion: {fileID: 4900000, guid: a85102abdeda8024aaded19f3678e456, type: 3}
+  AllDictionaryFiles:
+  - {fileID: 4900000, guid: 72f5aca29ceb6b14fa1965fbce1445e8, type: 3}
+  - {fileID: 4900000, guid: 86fbd1c8031d7d64a8f951a3ab8b679e, type: 3}
+  - {fileID: 4900000, guid: ce5715a09e605aa44b76d6f5cea7713e, type: 3}
+  - {fileID: 4900000, guid: 4f88448b41625f64f8b20e035c6ce45d, type: 3}
+  - {fileID: 4900000, guid: f367b725c997100469062b83218976b6, type: 3}
+  - {fileID: 4900000, guid: cff57dc7510d3a04dbbba60199c74a09, type: 3}
+  - {fileID: 4900000, guid: 0f8dc3ad046ea474f9f2965888abbdbf, type: 3}
+  - {fileID: 4900000, guid: 6dc3c7658022af04cb495272fa46873f, type: 3}
+  - {fileID: 4900000, guid: b0426051787442a45970d8332c925e8f, type: 3}
+  - {fileID: 4900000, guid: 00b1bfa12ec492a4faf72f129bd873c7, type: 3}
+  - {fileID: 4900000, guid: 09c8ed1c07a356d4d8f1c1cf6b0a18d1, type: 3}
+  AllCountries:
+  - {fileID: 11400000, guid: 5a10aa817a6c19b48902087f196d853f, type: 2}
+  - {fileID: 11400000, guid: d50b9e4e4168bd04f91b714b9c907ed0, type: 2}
+  - {fileID: 11400000, guid: 25e7e3c00f67a3c4e9e08b72f863f6b9, type: 2}
+  - {fileID: 11400000, guid: 2eb29eff07e8268448b85d88edc96ff2, type: 2}
+  - {fileID: 11400000, guid: 0585454378d3ba2499d5da8a0c64e445, type: 2}
+  - {fileID: 11400000, guid: 4b06279773889fc42947d88863dff2cf, type: 2}
+  - {fileID: 11400000, guid: 1fd3d2184104c44439127da7dca939d8, type: 2}
+  - {fileID: 11400000, guid: c9df35fd36ea73a40986fdf447f861e5, type: 2}
+  - {fileID: 11400000, guid: 1fe56ddda2dd1a247877061d851a69eb, type: 2}
+  beastFormula: '%birdUsage'
+  currentSeason: 3
+  TimesToGenerate: 1
+  EntriesInBook: 40
+  SectionSeparator: '------------------------------'

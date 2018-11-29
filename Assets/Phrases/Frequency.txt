@@ -1,0 +1,92 @@
+{
+	"freqBasic":[
+		"often",
+		"daily",
+		"on the hour",
+		"sometimes",
+		"occasionally",
+		"frequently",
+		"rarely",
+		"in %season",
+		"%freqSun",
+		"%freqSun",
+		"%freqSun",
+		"%freqRare",
+		"%times a %timeUnit"
+	],
+
+	"freqRare":[
+		"when a %personTypeImportant dies",
+		"when Her Majesty %freqQueen",
+		"during an eclipse",
+		"during %festivalName"
+	],
+
+	"freqSun":[
+		"at sunset",
+		"at sunrise",
+		"in the afternoon",
+		"in the morning",
+		"in the early evening",
+		"in the evening",
+		"late at night",
+		"just before sunrise",
+		"at midnight"
+	],
+	"freqDry":[
+		"%freqBasic",
+		"%freqBasic",
+		"%freqBasic",
+		"%freqBasic",
+		"%freqBasic",
+		"at high noon",
+		"in high winds",
+		"in sandstorms"
+	],
+	"freqSea":[
+		"%freqBasic",
+		"%freqBasic",
+		"%freqBasic",
+		"%freqBasic",
+		"%freqBasic",
+		"at high tide",
+		"at low tide",
+		"when Her Majesty's ship docks",
+		"when the wind blows in from the %sea",
+		"when it %senses the %sea"
+	],
+	"freqWoods":[
+		"%freqBasic",
+		"%freqBasic",
+		"%freqBasic",
+		"%freqBasic",
+		"%freqBasic",
+		"when it's foggy",
+		"when it rains",
+		"when it hails",
+		"when the harvest begins",
+		"when the %fruits ripen"
+	],
+	"freqMoon":[
+		"%freqBasic",
+		"%freqBasic",
+		"%freqBasic",
+		"%freqBasic",
+		"%freqBasic",
+		"when it snows",
+		"when the stars align",
+		"at the full moon",
+		"in the new moon",
+		"at moonrise",
+		"at moonset"
+		"when %star is in ascendance",
+		"when %star is at its peak"
+	],
+
+	"freqQueen":[
+		"wakes up",
+		"goes to sleep",
+		"prays for peace",
+		"holds court"
+	]
+}

@@ -1,0 +1,252 @@
+{
+	"danceDesc" : [
+		"%interestedIn the %danceAdj dance of the %name %danceDetail",
+		"The %name has a %danceAdj %danceReason dance.",
+		"The %name has a %danceAdj dance %danceDetail",
+		"I %feeling the %danceReason dance of the %name."
+	],
+
+	"danceDetail" : [
+		"which it engages in %freqSun.",
+		"that I myself have tried to imitate.",
+		"which reminds me of a $countryCitizens ritual.",
+		"which is accompanied by a %songAdj %songNoun.",
+		"that it performs as a kind of %danceReason",
+		"that it does %freqBasic in %season.",
+		"that %seems to be a form of %danceReason."
+	],
+
+	"danceReason" : [
+		"dominance expression",
+		"mating display",
+		"courtship",
+		"socialization",
+		"group bonding",
+		"communication",
+		"celebration"
+	],
+
+	"danceAdj" : [
+		"violent",
+		"erratic",
+		"passionate",
+		"riotous",
+		"charming",
+		"fierce",
+		"squiggly",
+		"pleasing",
+		"aggressive",
+		"choreographed",
+		"bouncing",
+		"gyrating",
+		"circular",
+		"complex",
+		"graceful",
+		"elaborate",
+		"dainty",
+		"formal",
+		"cheerful",
+		"alluring",
+		"geometric"
+	],
+
+	"songDesc" : [
+		"Normally the %name makes a %songAdj %songNoun but when %songReason it makes a %songAdj %songNoun.",
+		"%^reputation the %name makes a %songAdj %songNoun when %songReason.",
+		"The %name has a %songAdj %songNoun and I %feeling it.",
+		"%interestedIn the %songAdj %songNoun of the %name.",
+		"It is recognizable by its %songAdj %songNoun.",
+		"The %name has a %songAdj %songNoun.",
+		"The %name has a %notableAdj, %songAdj %songNoun which it makes %freqSun.",
+		"This bird is known by its %songAdj %songNoun.",
+		"The %name communicates with a %songAdj %songNoun.",
+		"The %name makes a %songAdj sound which is quite %songAdj.",
+		"The %name produces a %songAdj %songNoun.",
+		"This %bird is known for a %songAdjBasic, %songAdj song.",
+		"This %bird produces a %songAdj %songNoun %freqRare.",
+		"The %songNoun of the %name seems either %songAdj or %songAdj depending on %dependsReason.",
+		"The %name +'s %songNoun sounds like a %songAdjBasic %soundNoun %times, then a %songAdjBasic %soundNoun.",
+		"The %bird sings with a %songAdjBasic %soundNoun then a %songAdjBasic %soundNoun %times.",
+		"%songDescRare",
+		"%^reputation the %birdAdj %bird's %songNoun is %songAdj."
+	],
+
+	"songDescRare" : [
+		"This %bird, the %name, makes a %songAdj %songNoun or a sound like %soundUnusual depending on %dependsReason",
+		"The %songNoun of the %name resembles %soundUnusual and %dontUnderstand.",
+		"%^reputation the %name produces a sound like %soundUnusual.",
+		"The %name has a %songAdj %songNoun, like %concept.",
+		"It %seems this %bird makes a %songAdj %songNoun %freqRare, %but I have not heard it.",
+		"This %bird produces a %songAdj %songNoun %freqRare.",
+		"The %songNoun of this %bird is %rumouredToBe a %mimicryNoun of the sound of a %animalBasic.",
+		"If you listen carefully it sounds like it sings: ' + %fortune +'"
+	],
+
+	"songReason" : [
+		"it is courting",
+		"it is calling its young",
+		"it is calling a mate",
+		"it is hunting",
+		"it desires a mate",
+		"it is alone",
+		"it is in a group",
+		"it desires food",
+		"it is upset",
+		"it is pleased",
+		"it feels threatened",
+		"it is %season"
+	],
+
+	"soundUnusual" : [
+		"a choir of singers",
+		"a distant music",
+		"any piece of music",
+		"any human voice",
+		"a man's voice",
+		"a woman's voice",
+		"a human voice",
+		"a child crying",
+		"a plucked wire",
+		"glass breaking",
+		"wind through trees",
+		"waves of the ocean",
+		"pouring sand",
+		"a drum",
+		"a bell",
+		"a trumpet",
+		"a grinding stone",
+		"a crystal bell",
+		"a flute",
+		"howling winds"
+	],
+
+	"mimicryNoun" : [
+		"mimicry",
+		"imitation",
+		"impression",
+		"impersonation",
+		"replication"
+	],
+
+	"dependsReason" : [
+		"its mood",
+		"the season",
+		"the time of day",
+		"the phase of the moon",
+		"the nature of its diet",
+		"whether it is night or day",
+		"whether it is well fed",
+		"whether it is alone",
+		"its age",
+		"the stage of its life"
+	],
+
+	"songNoun" : [
+		"warbling",
+		"fluting",
+		"warbling",
+		"buzz",
+		"squawking",
+		"chirping",
+		"twittering",
+		"song",
+		"song",
+		"song",
+		"song",
+		"call",
+		"call",
+		"call",
+		"call",
+		"call"
+	],
+
+	"soundNoun":[
+		"chirp",
+		"clack",
+		"tweet",
+		"trill",
+		"pipe",
+		"sound"
+	],
+
+	"songAdj":[
+		"%songAdjBasic",
+		"%songAdjScary",
+		"%songAdjProud",
+		"%songAdjPretty",
+		"%songAdjNice"
+	],
+
+	"songAdjBasic":[
+		"high",
+		"simple",
+		"complex",
+		"low",
+		"rich",
+		"long",
+		"short",
+		"thin"
+	],
+
+	"songAdjScary" : [
+		"harrowing",
+		"haunting",
+		"fearful",
+		"bizarre",
+		"eerie",
+		"strange",
+		"uncanny",
+		"grotesque",
+		"baleful",
+		"portentous",
+		"ominous",
+		"mysterious",
+		"dire",
+		"dreadful",
+		"ominous"
+	],
+
+	"songAdjProud" : [
+		"piercing",
+		"sharp",
+		"blaring",
+		"brash",
+		"brazen",
+		"bold",
+		"blustering",
+		"strident",
+		"thunderous",
+		"metallic",
+		"penetrating"
+	],
+
+	"songAdjPretty" : [
+		"uplifting",
+		"inspiring",
+		"joyful",
+		"melodious",
+		"alluring",
+		"charming",
+		"delightful",
+		"elegant",
+		"lovely",
+		"admirable",
+		"cheerful",
+		"jubilant",
+		"bewitching"
+	],
+
+	"songAdjNice" : [
+		"delicate",
+		"beautiful",
+		"gentle",
+		"tender",
+		"pacifying",
+		"warming",
+		"soft",
+		"calming",
+		"reassuring",
+		"soothing",
+		"sedate"
+	]
+}

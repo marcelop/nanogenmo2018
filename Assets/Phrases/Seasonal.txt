@@ -1,0 +1,204 @@
+{
+	"seasonLineSummer":[
+		"This morning I saw a %seasonAnimal outside my window, so I suppose it must be summer, and thus the first day of my holy task. I could barely sleep. Perhaps I should have started before the sun rose, as Cem was already in the Aviary working when I arrived; nevertheless, I shall surely best him.\n\nThe birds are distraught by the heat, and it %seems the whole world must be %seasonAdj. Already I crave the taste of %seasonDishPrep %seasonIngredient from the Kitchenmaze, but I must fulfill my duties first."
+	],
+	"seasonLineFall":[
+		"Autumn has come too soon, with all of its %seasonAnimal +s and %seasonAnimal +s.. and an early frost means the palace is nearly out of %seasonIngredient. In my heart, I fear devious Cem is to blame, somehow, yet to accuse him would be to guarantee his death. So instead, I shall focus only on my work, not my rumbling stomach.\n\nI hope Her Majesty has not been inconvenienced as the season grows %seasonAdj, as Her peace-prayers are of more importance than mortals can understand. Perhaps the cooks can augment the feast with extra %^seasonIngredient %^seasonDish."
+	],
+	"seasonLineWinter":[
+		"I shall try to find joy in my heart to greet %seasonAdj winter. Already the year (and my task!) is half-complete, though I fear this final half shall be more difficult than ever, due to Cem and his continual interference.\n\nIn the interests of reconciliation, he left a single %flower at my work-station, yet I find it difficult to forgive such a man. Thankfully, I may focus instead on the birds."
+	],
+	"seasonLineSpring":[
+		"It is spring. %^seasonAdj +, %seasonAdj spring. The season of renewal, and nearly the end of my year-long task.\n\nTo invoke the correct auspices for this final chapter, I have dutifully %animalVerbed a %seasonAnimal and eaten a %seasonIngredient %seasonDish. May Cem prove to be a faithful lover, and may Her Majesty smile upon my efforts."
+	],
+
+	"seasonAnimalSpring":[
+		"frog",
+		"fawn",
+		"rabbit",
+		"caterpillar",
+		"snail",
+		"cricket"
+	],
+	"seasonAnimalWinter":[
+		"crow",
+		"snowy fox",
+		"snowy bear",
+		"elk",
+		"reindeer",
+		"oyster"
+	],
+	"seasonAnimalFall":[
+		"fox",
+		"squirrel",
+		"bear",
+		"deer",
+		"stag"
+	],
+	"seasonAnimalSummer":[
+		"buck",
+		"stag",
+		"cicada",
+		"mosquito",
+		"jellyfish",
+		"snake"
+	],
+	"seasonIngredientSpring":[
+		"cherry",
+		"green onion",
+		"strawberry",
+		"apricot"
+	],
+	"seasonIngredientSummer":[
+		"sunflower",
+		"apricot",
+		"berry",
+		"melon",
+		"tomato"
+	],
+	"seasonIngredientFall":[
+		"grape",
+		"pear",
+		"persimmon",
+		"peach",
+		"pepper",
+		"mushroom",
+		"potato",
+		"raspberry",
+		"parsnip",
+		"apple",
+	],
+	"seasonIngredientWinter":[
+		"cranberry",
+		"orange",
+		"almond",
+		"parsnip",
+		"leek",
+		"onion",
+		"carrot",
+		"turnip",
+		"potato"
+	],
+	"seasonDishSpring":[
+		"salad",
+		"bowl"
+	],
+	"seasonDishSummer":[
+		"iced cream",
+		"salad",
+		"refreshment",
+		"cream",
+		"dessert",
+		"parfait"
+	],
+	"seasonDishFall":[
+		"cake",
+		"pie",
+		"platter",
+		"feast"
+	],
+	"seasonDishWinter":[
+		"cake",
+		"pie",
+		"stew",
+		"bake",
+		"soup",
+		"porridge",
+		"roast",
+		"jerky"
+	],
+	"seasonDishPrepSpring":[
+		"sliced",
+		"fresh",
+		"raw"
+	],
+	"seasonDishPrepSummer":[
+		"grilled",
+		"fresh",
+		"chilled",
+		"iced"
+	],
+	"seasonDishPrepFall":[
+		"roasted",
+		"grilled",
+		"baked"
+	],
+	"seasonDishPrepWinter":[
+		"boiled",
+		"roasted",
+		"charred",
+		"smoked",
+		"aged"
+	],
+	"seasonAdjSpring":[
+		"rainy",
+		"wet",
+		"muddy",
+		"budding",
+		"growing",
+		"fertile",
+		"flowery"
+	],
+	"seasonAdjSummer":[
+		"sticky",
+		"sweltering",
+		"hot",
+		"humid",
+		"swimming",
+		"sluggish",
+		"selfish",
+		"sunlit"
+	],
+	"seasonAdjFall":[
+		"cooler",
+		"windy",
+		"leaf-changing",
+		"chilly",
+		"breezy",
+		"crisp",
+		"clear"
+	],
+	"seasonAdjWinter":[
+		"freezing",
+		"snowy",
+		"cold",
+		"frozen",
+		"familial",
+		"cozy",
+		"dark",
+		"candle-lit"
+	],
+	"seasonDecoSpring":[
+		"%fruit blossoms",
+		"blown eggs",
+		"%seasonAnimal stencils"
+	],
+	"seasonDecoSummer":[
+		"fireworks",
+		"full moons"
+	],
+	"seasonDecoFall":[
+		"red leaveS",
+		"orange leaves",
+		"ivy"
+	],
+	"seasonDecoWinter":[
+		"pine boughs",
+		"fireworks",
+		"mistletoe"
+	],
+	"seasonCemCommentSpring":[
+		"Cem continues to watch over my shoulder. I cannot stand it."
+	],
+	"seasonCemCommentSummer":[
+		"I have clearly shown I am more knowledgeable than Cem, yet still he will not admit it."
+	],
+	"seasonCemCommentFall":[
+		"I must keep this bird a secret from Cem or he shall try to claim credit for its discovery."
+	],
+	"seasonCemCommentWinter":[
+		"I cannot wait to return home and discuss these findings with Cem.",
+		"Cem suggests that perhaps we should adopt one of these for our own aviary. Foolish man."
+	],
+
+}

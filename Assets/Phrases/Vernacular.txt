@@ -1,0 +1,254 @@
+﻿{
+	"maybe":[
+		"maybe",
+		"maybe",
+		"maybe",
+		"possibly",
+		"could be",
+		"perhaps"
+	],
+	"seems":[
+		"seems",
+		"seems",
+		"seems",
+		"looks",
+		"appears"
+	],
+
+	"observed":[
+		"have noticed",
+		"have observed",
+		"have noted",
+		"have studied",
+		"have long regarded",
+		"have closely studied",
+		"have carefully observed",
+		"carefully studied",
+		"recognized"
+	],
+
+	"rumouredToBe":[
+		"rumoured to be",
+		"supposedly",
+		"said to be",
+		"allegedly",
+		"believed to be"
+	],
+	"but":[
+		"but",
+		"yet",
+		"though",
+		"however"
+	],
+	"hates":[
+		"hates",
+		"loathes",
+		"despises",
+		"detests"
+	],
+	"valuable":[
+		"valuable",
+		"very valuable",
+		"worth a lot",
+		"worth its weight in kurus",
+		"highly prized"
+	],
+	"observe":[
+		"observe",
+		"report",
+		"see",
+		"must report",
+		"perceive"
+	],
+	"famous":[
+		"famous",
+		"historic",
+		"celebrated",
+		"acclaimed",
+		"infamous",
+		"controversial",
+		"powerful",
+		"influential",
+		"renowned"
+	],
+	"correctly":[
+		"correctly",
+		"accurately"
+	],
+	"reputation":[
+		"everyone knows",
+		"few know",
+		"only scholars know",
+		"a %personType told me",
+		"I've heard",
+		"I read in %bookName",
+		"I read in %bookName",
+		"According to %bookName,",
+		"In %bookName,",
+		"I read",
+		"they say",
+		"they say",
+		"they say",
+		"they say",
+		"people say",
+		"a %personType said",
+		"my %source told me",
+		"if you can trust my %source,"
+	],
+	"dontUnderstand":[
+		"I don't know why",
+		"I don't understand it",
+		"I can't comprehend it",
+		"it's a mystery to me"
+	],
+	"got":[
+		"found",
+		"purchased",
+		"bought",
+		"was given",
+		"acquired",
+		"took"
+	],
+	"soon":[
+		"soon",
+		"tomorrow",
+		"soon",
+		"tomorrow",
+		"the day after tomorrow",
+		"this week",
+		"this week",
+		"in two weeks",
+		"later this month",
+		"this month",
+		"this year"
+	],
+
+	"source":[
+		"mother",
+		"father",
+		"sister",
+		"brother",
+		"friend",
+		"spy",
+		"lover",
+		"friend",
+		"close friend",
+		"good friend",
+		"trusted source"
+		"grandma",
+		"grandpa",
+		"fortune-teller"
+	],
+	"eats":[
+		"eats",
+		"snacks on",
+		"devours",
+		"gorges on",
+		"swallows",
+		"consumes",
+		"lives on"
+	],
+	"make":[
+		"make",
+		"build",
+		"make",
+		"build",
+		"construct",
+		"weave",
+		"create"
+	],
+	"manmade":[
+		"made",
+		"built",
+		"made",
+		"built",
+		"constructed",
+		"woven",
+		"created",
+		"crafted",
+		"engineered",
+		"sculpted"
+	],
+	"feeling":[
+		"like",
+		"quite like"
+		"do not like",
+		"don't like",
+		"love",
+		"adore",
+		"loathe",
+		"admire"
+	],
+	"birdFeeling":[
+		"likes",
+		"does not like",
+		"doesn't like",
+		"loves",
+		"adores",
+		"loathes",
+		"admires",
+		"obsesses over"
+	],
+	"expected":[
+		"did not expect",
+		"expected",
+		"did not expect",
+		"expected",
+		"looked forward to",
+		"have been looking forward to",
+		"didn't expect",
+		"was surprised by",
+		"anticipated"
+	],
+	"importantTo":[
+		"an important part of",
+		"central to",
+		"important to",
+		"crucial to"
+	],
+	"suspect":[
+		"suspect",
+		"think",
+		"believe",
+		"secretly believe",
+		"worry",
+		"fear",
+		"gather"
+	],
+	"behaviour":[
+		"behaviour",
+		"way of life",
+		"actions",
+		"tendencies",
+		"habits",
+		"preferences",
+		"qualities",
+		"talents",
+		"meaning"
+	],
+	"foodDesc":[
+		"delicious",
+		"tasty",
+		"traditional",
+		"regional",
+		"%great",
+		"%terrible"
+	],
+	"great":[
+		"great",
+		"great",
+		"fantastic",
+		"excellent",
+		"wonderful",
+		"rare"
+	],
+	"terrible":[
+		"awful",
+		"terrible",
+		"very bad",
+		"ghastly",
+		"horrible",
+		"horrifying"
+	]
+
+}
