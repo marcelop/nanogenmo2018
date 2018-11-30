@@ -126,14 +126,14 @@
 		"featured in"
 	],
 	"artSuffix":[
-		"%verbing a %name2",
+		"%sportVerbing a %name2",
 		"unfortunately",
 		"interestingly",
 		"stereotypically",
 		"allegedly",
-		"%near a %symbolicObj",
+		"%near a %symbolicObject",
 		"called %^^fortune, by %firstName %lastName",
-		"though it inaccurately displays the bird with a %colourBasic %birdpart"
+		"though it inaccurately displays the bird with a %colourBasic %birdPart"
 	],
 	"eggCondition":[
 		"It %seems to have laid a %eggDesc egg! %^omen.",

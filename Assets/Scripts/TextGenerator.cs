@@ -296,11 +296,11 @@ public class TextGenerator : SerializedMonoBehaviour {
 					replacement = CapitalizeAllFirstLetters(replacement);
 
 				// Overwrite replacement with name if it's the case
-				if (!isNameReady && token == "name" && currentName != string.Empty)
+				if (isNameReady && token == "name" && currentName != string.Empty)
 					replacement = currentName;
 
 				// Make sure that this replacement is unique in this entry
-				if (token != "name" && token != "bird" && token != "seems")
+				if (token != "name" && token != "bird" && token != "seems" && !replacement.Contains("%"))
 				{
 					if (replacementsUsed.ContainsKey(token) && replacementsUsed[token].Contains(replacement))
 					{

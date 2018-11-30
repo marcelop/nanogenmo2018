@@ -607,7 +607,7 @@
 		"grieving a %familymember",
 		"wealthy",
 		"certified to %certificationActivity",
-		"approved to %certificationActivity by the %^countryType of %countryName",
+		"approved to %certificationActivity by the $countryType of $countryName",
 		"fashionable"
 	],
 	"certificationActivity":[
