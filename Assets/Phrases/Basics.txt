@@ -359,8 +359,11 @@
 		"%plants",
 		"%insects",
 		"%meats",
-		"a %seasonIngredient %seasonDish"
-		"%seasonDishPrep %seasonIngredient"
+		"a %seasonIngredient %seasonDish",
+		"%seasonDishPrep %seasonIngredient",
+		"%seasonDishPrep %seasonIngredient with a %seasonIngredient sauce",
+		"a %seasonDish of %seasonIngredient and %seasonIngredient",
+		"a %seasonIngredient garnished with %seasonIngredient (+ %seasonDishPrep or %seasonDishPrep)"
 	],
 	"plants":[
 		"leaves",

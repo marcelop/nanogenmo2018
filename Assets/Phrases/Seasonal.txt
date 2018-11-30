@@ -43,18 +43,29 @@
 		"jellyfish",
 		"snake"
 	],
+	"seasonIngredientBasic":[
+		"rice",
+		"bread",
+		"%flavor +-+ %veggie",
+		"nut"
+	],
 	"seasonIngredientSpring":[
 		"cherry",
-		"green onion",
+		"%colourBasic onion",
 		"strawberry",
-		"apricot"
+		"apricot",
+		"basil",
+		"mint",
+		"%seasonIngredientBasic"
 	],
 	"seasonIngredientSummer":[
 		"sunflower",
 		"apricot",
 		"berry",
+		"%colour +berry",
 		"melon",
-		"tomato"
+		"tomato",
+		"%seasonIngredientBasic"
 	],
 	"seasonIngredientFall":[
 		"grape",
@@ -67,17 +78,25 @@
 		"raspberry",
 		"parsnip",
 		"apple",
+		"%seasonIngredientBasic"
 	],
 	"seasonIngredientWinter":[
 		"cranberry",
 		"orange",
+		"buckwheat",
+		"fennel",
+		"cabbage",
+		"%animal %eatPart",
 		"almond",
 		"parsnip",
+		"oxtail",
 		"leek",
 		"onion",
 		"carrot",
 		"turnip",
-		"potato"
+		"potato",
+		"barley",
+		"%seasonIngredientBasic"
 	],
 	"seasonDishSpring":[
 		"salad",
@@ -110,22 +129,36 @@
 	"seasonDishPrepSpring":[
 		"sliced",
 		"fresh",
-		"raw"
+		"raw",
+		"fluffed",
+		"steamed",
+		"chopped",
+		"shredded",
+		"squashed"
 	],
 	"seasonDishPrepSummer":[
 		"grilled",
 		"fresh",
 		"chilled",
-		"iced"
+		"iced",
+		"barbequed",
+		"frozen"
 	],
 	"seasonDishPrepFall":[
 		"roasted",
 		"grilled",
-		"baked"
+		"baked",
+		"sauteed",
+		"boiled",
+		"combed",
+		"broiled"
 	],
 	"seasonDishPrepWinter":[
 		"boiled",
 		"roasted",
+		"dehydrated",
+		"rehydrated",
+		"fermented",
 		"charred",
 		"smoked",
 		"aged"
@@ -187,18 +220,36 @@
 		"fireworks",
 		"mistletoe"
 	],
-	"seasonCemCommentSpring":[
+	"seasonCemComment":[
 		"Cem continues to watch over my shoulder. I cannot stand it."
-	],
-	"seasonCemCommentSummer":[
-		"I have clearly shown I am more knowledgeable than Cem, yet still he will not admit it."
-	],
-	"seasonCemCommentFall":[
-		"I must keep this bird a secret from Cem or he shall try to claim credit for its discovery."
-	],
-	"seasonCemCommentWinter":[
+		"I believe he is feeding the bird %seasonIngredient %reasonFeed.",
+		"I saw him hand feeding the bird.. but why? %^reasonFeed +?",
+		"Cem suggested I feed it %seasonIngredient %reasonFeed",
+		"%^reasonFeed +, Cem has been feeding it a bit too much.",
+		"Cem %conspires, %indicating the bird, and %idontlikeit.",
+		"%sunFreq I found Cem %petting the bird %pettingSuffix",
+		"I %consulted Cem about the bird's %condition and %consultreply.",
+		"I have clearly shown I am more knowledgeable than Cem, yet still he will not admit it.",
+		"I must keep this bird a secret from Cem or he shall try to claim credit for its discovery.",
 		"I cannot wait to return home and discuss these findings with Cem.",
 		"Cem suggests that perhaps we should adopt one of these for our own aviary. Foolish man."
+	],
+	"seasonNameSpring":[
+		"spring",
+		"the rainy season"
+	],
+	"seasonNameSummer":[
+		"summer",
+		"the dry season"
+	],
+	"seasonNameFall":[
+		"fall",
+		"autumn",
+		"harvest season"
+	],
+	"seasonNameWinter":[
+		"winter",
+		"the dark season"
 	],
 
 }

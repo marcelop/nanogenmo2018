@@ -166,6 +166,41 @@
 		"her",
 		"their"
 	],
+	"peopleType":[
+		"gardeners",
+		"soldiers",
+		"peasants",
+		"foreigners",
+		"girls",
+		"boys",
+		"youths",
+		"merchants",
+		"blacksmiths",
+		"%birdMerchant +s",
+		"%birdMerchant +s",
+		"cobblers",
+		"gossips",
+		"storytellers",
+		"farmers",
+		"informants",
+		"braggarts",
+		"%criminal +s",
+		"gluttons",
+		"scientists",
+		"doctors",
+		"%animal breeders",
+		"cooks",
+		"%instrument +-players",
+		"fools",
+		"hunters",
+		"interpreters",
+		"ladies-in-waiting",
+		"orphans",
+		"wanderers",
+		"hedonists",
+		"spies",
+		"couriers"
+	],
 	"personTypeBasic":[
 		"gardener",
 		"soldier",
@@ -563,7 +598,9 @@
 		"cup",
 		"pail",
 		"bucket",
-		"jug"
+		"jug",
+		"thimble",
+		"chalice"
 	],
 		"status":[
 		"looking for love",
@@ -688,6 +725,49 @@
 		"freize",
 		"fresco"
 	],
+	"flavor":[
+		"sweet",
+		"salty",
+		"hot",
+		"sour",
+		"bitter",
+		"fresh",
+		"%flavorRare"
+	],
+	"veggie":[
+		"melon",
+		"potato",
+		"gourd",
+		"pepper",
+		"root",
+		"leaf"
+	],
+	"flavorRare":[
+		"blood",
+		"flesh",
+		"moon",
+		"wish"
+	],
+
+	"consultReply":[
+		"I received no response",
+		"he shrugged",
+		"he said he would check with the Keepers",
+		"he said he was too busy",
+		"he said a lot of words but they didn't make a lot of sense",
+		"I am not sure he heard me",
+		"his reply was noncommittal",
+		"he doesn't seem to know",
+		"he put in a request to %landmark on my behalf"
+	],
+	"conspires":[
+		"whispers with the Keepers",
+		"grumbles at his desk",
+		"frowns into his notebook",
+		"makes secret notes",
+		"writes letters to Her Majesty"		
+	],
+
 	"harvestQuality":[
 		"poor",
 		"bountiful",
@@ -819,17 +899,17 @@
 	"bookSuffix":[
 		"( + %ordinal Edition)",
 		"by %firstName %lastName",
-		"by %namePrefix %lastName",
+		"by %humanNamePrefix %lastName",
 		"( + %ordinal Edition)",
 		"by %firstName %lastName",
-		"by %namePrefix %lastName",
+		"by %humanNamePrefix %lastName",
 		"(Chapter %^number)",
 		"( + %ordinal Edition)",
 		"by %firstName %lastName",
-		"by %namePrefix %lastName",
+		"by %humanNamePrefix %lastName",
 		"( + %ordinal Edition)",
 		"by %firstName %lastName",
-		"by %namePrefix %lastName",
+		"by %humanNamePrefix %lastName",
 		"(Chapter %^number)",
 		"(original manuscript)",
 		"(courtesy of the Under-Library)",

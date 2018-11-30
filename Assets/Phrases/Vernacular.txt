@@ -81,8 +81,8 @@
 		"only scholars know",
 		"a %personType told me",
 		"I've heard",
-		"I read in %bookName",
-		"I read in %bookName",
+		"I read in %bookName that",
+		"I read in %bookName that",
 		"According to %bookName,",
 		"In %bookName,",
 		"I read",
@@ -94,6 +94,71 @@
 		"a %personType said",
 		"my %source told me",
 		"if you can trust my %source,"
+	],
+	"consulted":[
+		"asked",
+		"consulted",
+		"spoke with",
+		"inquired"
+	],
+	"indicating":[
+		"pointing at",
+		"obsessed with",
+		"staring at",
+		"gesturing at"
+	],
+	"IDontLikeIt":[
+		"I don't like it",
+		"it makes me nervous",
+		"I don't understand it",
+		"I wish I knew why",
+		"it makes my chest tight",
+		"it makes me feel cold",
+		"I feel nervous"
+	],
+	"petting":[
+		"stroking the bird's neck",
+		"%nicely petting the %bird",
+		"whispering to the %bird",
+		"singing %nicely to the %bird"
+	],
+	"pettingSuffix":[
+		"but he stopped when he saw me",
+		"and the bird sang in response",
+		"and the bird leaned towards him",
+		"but %idontlikeit",
+		"but maybe I didn't see it correctly",
+		"but he must have had a secret motive"
+	],
+	"nicely":[
+		"gently",
+		"softly",
+		"fondly",
+		"sweetly",
+		"carefully",
+		"delicately"
+	],
+	"reasonFeed":[
+		"to fatten it up for %festivalName",
+		"to earn its trust",
+		"to hear its song",
+		"to please the Keepers",
+		"to learn its secrets",
+		"to see inside its beak",
+		"to make it lay an egg",
+		"to defy the Keepers' orders"
+	],
+	"eatPart":[
+		"tongue",
+		"loin",
+		"flank",
+		"leg",
+		"cheek",
+		"meat",
+		"tripe",
+		"tendon",
+		"thigh",
+		"meat"
 	],
 	"dontUnderstand":[
 		"I don't know why",

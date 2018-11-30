@@ -212,7 +212,7 @@ Prefab:
     - target: {fileID: 114046878395847370, guid: 2bf0064224cc674479c095030f997710,
         type: 2}
       propertyPath: EntriesInBook
-      value: 630
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 114046878395847370, guid: 2bf0064224cc674479c095030f997710,
         type: 2}

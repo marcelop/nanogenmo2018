@@ -68,10 +68,10 @@
 		"%^reputation %birdBehav."
 	],
 	"conditionDesc":[
-		"It's %health, if I %observe %correctly.",
+		"It's %health.",
 		"It %seems to be %health. %^care",
 		"%^care",
-		"I %observe it is %health. %eggCondition",
+		"I %observe it is %health. %eggCondition"
 	],
 	"culturalNote":[
 		"I dreamed of it last night.",
@@ -95,7 +95,7 @@
 		"%^property.",
 		"It plays a kind of sport with %name2, %sportVerbing %natureObjs, which the $countryType of $countryName uses in %ritualTypesBasic.",
 		"It %wasMentionedIn the %famous %writing by %firstName %lastName, %^^fortune, along with %name2",
-		"A %famous %workofart in the %^national %^govtbuilding of $countryName features %name, %artSuffix",
+		"A %famous %workofArt in the %^national %^govtBuilding of $countryName features %name, %artSuffix",
 		"%peopleType in $countryName keep this bird %keepExplan"
 	],
 
@@ -118,7 +118,7 @@
 	],
 
 
-	"mentionedIn":[
+	"wasMentionedIn":[
 		"was mentioned in",
 		"was the subject of",
 		"served as inspiration for",
@@ -282,8 +282,18 @@
 		"%^birdByproduct of the %name are %productProcess by the $countryCitizens and used %productUsage.",
 		"I %suspect Cem has been stealing %name %birdByproduct %productUsage, %accusationSuffix.",
 		"This %bird is eaten %freq, %seasonDishPrep with a %seasonIngredient.",
+		"In $countryName they often eat it, %foodSuffix.",
 		"In %seasonName, %peopleType of $countryName eat this %bird under %seasonDeco.",
 		"If %productProcess, its %birdByproduct may be combined with %seasonIngredient for a %foodDesc %seasonDish."
+	],
+
+	"foodSuffix":[
+		"in a sauce of %seasonIngredient and %seasonIngredient",
+		"dressed in %seasonDishPrep %seasonIngredient",
+		"garnished with %seasonIngredient ( + %seasonDishPrep or %seasonDishPrep )",
+		"on a bed of %seasonIngredient",
+		"with a hint of %seasonIngredient",
+		"followed by a %container of %seasonIngredient +-+ %liquid"
 	],
 
 	"birdByproduct" : [
